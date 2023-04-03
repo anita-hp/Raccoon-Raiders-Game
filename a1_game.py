@@ -12,8 +12,6 @@ from typing import Dict, List, Optional
 import pygame
 import a1
 
-# Feel free to modify any of these constant values.
-
 # Game Screen dimensions in pixels
 SCREEN_WIDTH = 1500  # 1165
 SCREEN_HEIGHT = 600  # 733
